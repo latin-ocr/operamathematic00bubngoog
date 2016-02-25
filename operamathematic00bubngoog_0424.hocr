@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operamathematic00bubngoog_0424.png"; bbox 0 0 1290 1810; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 322 1340 877 1433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 322 1335 929 1433">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 1340 843 1374; baseline -0.005 -5"><span class='ocrx_word' id='word_1_1' title='bbox 335 1371 339 1374; x_wconf 66' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 404 1341 514 1370; x_wconf 52' lang='lat' dir='ltr'><strong><em>Aaffi—</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 486 1340 843 1368; x_wconf 53' lang='grc' dir='ltr'><strong><em>-Βιηπιιοῌνωὲ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 322 1372 877 1404; baseline 0.002 -6"><span class='ocrx_word' id='word_1_4' title='bbox 322 1377 337 1385; x_wconf 89' lang='grc'><strong><em>·-</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 374 1372 554 1404; x_wconf 47' lang='lat' dir='ltr'><strong><em>vendanum</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 581 1375 877 1404; x_wconf 58' lang='lat' dir='ltr'><strong><em>nummatam-paui»</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 325 1407 861 1433; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 325 1407 861 1433; x_wconf 54' lang='lat' dir='ltr'><strong><em>:rm—Ban2994xssva11mm2</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 158 100 1132 1704">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 158 100 1132 1704">
+     <span class='ocr_line' id='line_1_4' title="bbox 158 100 1132 1704; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 158 100 1132 1704; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

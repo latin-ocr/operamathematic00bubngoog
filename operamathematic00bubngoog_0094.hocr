@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operamathematic00bubngoog_0094.png"; bbox 0 0 1290 1810; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 317 1334 986 1539">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 320 1334 942 1401">
+     <span class='ocr_line' id='line_1_1' title="bbox 320 1334 942 1401; baseline 0 -17"><span class='ocrx_word' id='word_1_1' title='bbox 320 1334 942 1401; x_wconf 32' lang='lat' dir='ltr'>⁴*ssffln—”nffliff-fl&#39;odn-fflwst‘</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 321 1421 995 1539">
+     <span class='ocr_line' id='line_1_2' title="bbox 340 1421 977 1479; baseline -0.002 -6.026"><span class='ocrx_word' id='word_1_2' title='bbox 340 1449 557 1479; x_wconf 51' lang='lat' dir='ltr'>muman</span> <span class='ocrx_word' id='word_1_3' title='bbox 555 1421 885 1478; x_wconf 43' lang='lat' dir='ltr'>&amp;affimant-u·-</span> <span class='ocrx_word' id='word_1_4' title='bbox 942 1454 977 1476; x_wconf 41' lang='lat'>4,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 317 1461 893 1506; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 317 1461 441 1506; x_wconf 51' lang='lat' dir='ltr'>:limans</span> <span class='ocrx_word' id='word_1_6' title='bbox 442 1479 893 1506; x_wconf 57' lang='lat' dir='ltr'>mmmmm-mn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 320 1507 986 1539; baseline 0.005 -8.005"><span class='ocrx_word' id='word_1_7' title='bbox 320 1507 534 1535; x_wconf 55' lang='lat' dir='ltr'>&#39;imm</span> <span class='ocrx_word' id='word_1_8' title='bbox 551 1510 986 1539; x_wconf 34' lang='lat' dir='ltr'>mammutium—m&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1290 1810">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1290 1810">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1290 1810; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1290 1810; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
